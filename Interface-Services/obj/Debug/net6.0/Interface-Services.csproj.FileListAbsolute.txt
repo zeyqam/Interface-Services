@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\bin\Debug\net6.0\Interface-Services.exe
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\bin\Debug\net6.0\Interface-Services.deps.json
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\bin\Debug\net6.0\Interface-Services.runtimeconfig.json
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\bin\Debug\net6.0\Interface-Services.dll
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\bin\Debug\net6.0\Interface-Services.pdb
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.AssemblyInfo.cs
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.dll
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\refint\Interface-Services.dll
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.pdb
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\Interface-Services.genruntimeconfig.cache
+C:\Users\HP\Desktop\Interface-Services\Interface-Services\obj\Debug\net6.0\ref\Interface-Services.dll
