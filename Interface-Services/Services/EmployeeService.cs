@@ -124,9 +124,10 @@ namespace Interface_Services.Services
             return new EmployeeResponse {Employee = employee};
         }
 
-        public EmployeeResponse Search(Employee[] employees, string keyword)
+        public Employee[] Search(Employee[] employees, string name)
         {
-            
+            return Array.FindAll(employees,employee=> employee.Name.ToLower().Contains(name.ToLower()));
+
         }
     }
 

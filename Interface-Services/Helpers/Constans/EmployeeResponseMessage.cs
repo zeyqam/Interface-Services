@@ -10,5 +10,6 @@ namespace Interface_Services.Helpers.Constans
     {
         public const string ArgumentNull = "Id cant null";
         public const string NotFound = "Employee notfound";
+
     }
 }

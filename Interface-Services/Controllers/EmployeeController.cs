@@ -40,6 +40,16 @@ namespace Interface_Services.Controllers
                 Console.WriteLine(response.ErorrMessages);
             }
         }
+        public void SearchEmployee(Employee[] employees,string name)
+        {
+            Employee[] searchResults = _employeeService.Search( employees,name);
+            Console.WriteLine("\nSearch Results:");
+            foreach (Employee employee in searchResults)
+            {
+                string result = $"{employee.Name} {employee.Surname} {employee.Age} {employee.Address} {employee.Email} {employee.Birthday.ToString("MM-dd-yyy")}";
+                Console.WriteLine(result);
+            }
+        }
         
     }
 }

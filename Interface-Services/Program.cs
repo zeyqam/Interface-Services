@@ -2,4 +2,5 @@
 
 EmployeeController  employeeController = new EmployeeController();
 //employeeController.GetAll();
-employeeController.GetById();
+//employeeController.GetById();
+employeeController.SearchEmployee("Cavid");

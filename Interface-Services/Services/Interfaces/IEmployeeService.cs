@@ -12,6 +12,6 @@ namespace Interface_Services.Services.Interfaces
     {
         Employee[] GetAll();
         EmployeeResponse GetById(Employee[] employees,int? id);
-        EmployeeResponse Search(Employee[] employees,string keyword);
+        Employee[] Search(Employee[] employees,string name);
     }
 }
